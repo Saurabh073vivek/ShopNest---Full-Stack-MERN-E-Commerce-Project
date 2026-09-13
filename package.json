@@ -1,10 +1,16 @@
 {
   "name": "shopnest-full-stack-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full-stack e-commerce application built with React, Node.js, Express and MongoDB",
   "keywords": [
     "Saurabh",
-    "Vivek"
+    "Vivek",
+    "ecommerce",
+    "shopnest",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
   ],
   "license": "ISC",
   "author": "Saurabh Vivek",
@@ -20,7 +26,6 @@
     "seed": "npm --prefix backend run seed"
   },
   "dependencies": {
-    "concurrently": "^10.0.5",
-    "react-redux": "^9.3.0"
+    "concurrently": "^10.0.5"
   }
 }
